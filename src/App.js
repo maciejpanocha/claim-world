@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './Header';
 import About from './About';
 import Application from './Application';
+import Support from './Support';
 import 'normalize.css';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <About />
       <Application />
+      <Support />
     </>
   );
 }
