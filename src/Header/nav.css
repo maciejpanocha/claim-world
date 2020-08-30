@@ -1,0 +1,39 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.nav__logo {
+    display: block;
+    margin: 0;
+    padding: 0;
+    max-height: 80px;
+    transition: 0.5s;
+}
+
+.nav__logo:hover {
+    transform: scale(1.25);
+}
+
+.nav__link {
+    width: 100%;
+    text-decoration: none;
+    color: #303036;
+    transition: 0.1s;
+}
+
+.nav__link:hover {
+    color: #FC5130;
+}
+
+.nav__listItem {
+    list-style: none;
+    font-size: 18px;
+}
+
+.nav__listItem--logo {
+    flex-basis: 25%;
+}

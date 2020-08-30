@@ -1,0 +1,37 @@
+.banner {
+    padding: 10% 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url(./../images/header.jpg) no-repeat scroll center;
+    background-size: cover;
+    border-top: 1px solid #303036;
+    border-bottom: 1px solid #454549;
+}
+
+.banner__h1 {
+    padding: 0;
+    margin: 0;
+    color: #050401;
+}
+
+.banner__paragraph {
+    font-size: 18px;
+    padding: 0 20px;
+    color: #303036;
+}
+
+.banner__link {
+    text-decoration: none;
+    color: #FFFAFF;
+    background-color: #FC5130;
+    padding: 8px 24px;
+    font-size: 17px;
+    border-radius: 25px;
+    transition: 0.15s ease-in-out;
+}
+
+.banner__link:hover {
+    color: #FC5130;
+    background-color: #FFFAFF;
+}
