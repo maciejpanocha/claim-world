@@ -1,0 +1,56 @@
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 8% 5%;
+    background-color: #FFF;
+}
+
+.about__div {
+    border-bottom: 1px dashed #161A1D;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.about__paragraph {
+    color: #161A1D;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+    font-size: 17px;
+}
+
+.about__paragraph--slogan {
+    border-bottom: 2px solid #161A1D;
+    flex-basis: 100%;
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+    padding: 10px;
+    color: #161A1D;
+}
+
+.about__h2 {
+    flex-basis: 100%;
+    color: #161A1D;
+    text-align: center;
+    font-size: 42px;
+    margin: 0;
+    font-weight: normal;
+}
+
+.about__h3 {
+    text-align: center;
+    color: #161A1D;
+    font-size: 38px;
+    padding: 15px;
+    margin: 0;
+    border: 1px solid #161A1D;
+}
+
+.about__link {
+    text-decoration: none;
+    float: right;
+    padding: 0 10px 10px 0;
+}
