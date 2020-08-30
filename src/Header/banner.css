@@ -12,13 +12,15 @@
 .banner__h1 {
     padding: 0;
     margin: 0;
-    color: #0B090A;
+    color: #fff;
+    text-shadow: 0 2px 10px #333;
 }
 
 .banner__paragraph {
     font-size: 18px;
     padding: 0 20px;
-    color: #161A1D;
+    color: #fff;
+    text-shadow: 0 2px 5px #333;
 }
 
 .banner__link {
