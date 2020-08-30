@@ -5,8 +5,8 @@
     align-items: center;
     background: url(./../images/header.jpg) no-repeat scroll center;
     background-size: cover;
-    border-top: 1px solid #161A1D;
-    border-bottom: 1px solid #161A1D;
+    border-top: 1px solid #262c30;
+    border-bottom: 1px solid #262c30;
 }
 
 .banner__h1 {
