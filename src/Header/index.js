@@ -9,7 +9,7 @@ const Header = () => (
         <ul className="nav">
             <li className="nav__listItem nav__listItem--logo">
                 <a href="index.html">
-                    <img src={logo} className="nav__logo" />
+                    <img src={logo} className="nav__logo" alt="logo claim world" />
                 </a>
             </li>
             <li className="nav__listItem">
