@@ -1,0 +1,45 @@
+.container {
+    max-width: 600px;
+    background-color: hsla(0, 0%, 100%, 0.95);
+    padding: 20px;
+    border: 1px solid #161A1D;
+    border-radius: 10px;
+    line-height: 1.5;
+}
+
+.container__h2 {
+    color: #161A1D;
+    border-bottom: 1px dashed #161A1D;
+    padding-bottom: 5px;
+}
+
+.container__paragraph {
+    font-size: 18px;
+    color: #161A1D;
+}
+
+.container__paragraph--small {
+    font-size: 14px;
+    border-bottom: 1px dashed #161A1D;
+    padding-bottom: 5px;
+    color: #161A1D;
+}
+
+.container__link {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.2s;
+    background-color: #E5383B;
+    padding: 2px 5px;
+    border-radius: 15px;
+    margin: 0 5px;
+}
+
+.container__link:hover {
+    color: #E5383B;
+    background-color: #fff;
+}
+
+.container__listItem {
+    color: #161A1D;
+}

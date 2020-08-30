@@ -1,0 +1,12 @@
+.application {
+    background: url(./../images/application.jpg) no-repeat scroll center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    padding: 7% 0;
+}
+
+.application__image {
+    max-height: 400px;
+    margin-right: 50px;
+}
