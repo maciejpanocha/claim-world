@@ -13,7 +13,7 @@ const About = () => (
         </div>
         <div className="about__div">
             <h2 className="about__h3"><FontAwesomeIcon icon={faMagic} /></h2>
-            <p className="about__paragraph">Codziennie polepszamy jakości rozgrywki i konsekwentnie budujemy zgraną społeczność.</p>
+            <p className="about__paragraph">Codziennie polepszamy jakość rozgrywki i konsekwentnie budujemy zgraną społeczność.</p>
         </div>
         <div className="about__div">
             <h2 className="about__h3"><FontAwesomeIcon icon={faDumbbell} /></h2>
