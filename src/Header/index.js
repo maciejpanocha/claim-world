@@ -5,7 +5,7 @@ import './banner.css';
 import logo from './../images/logo.png';
 
 const Header = () => (
-    <div className="header">
+    <div className="header" id="header">
         <ul className="nav">
             <li className="nav__listItem nav__listItem--logo">
                 <a href="index.html" className="nav__link--logo">
