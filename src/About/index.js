@@ -17,7 +17,7 @@ const About = () => (
         </div>
         <div className="about__div">
             <h2 className="about__h3"><FontAwesomeIcon icon={faDumbbell} /></h2>
-            <p className="about__paragraph">Niełatwo tu zagrać. Jednak kiedy się już dostaniesz, nie będziesz chciał stąd odejść. Społeczność mamy świetną!</p>
+            <p className="about__paragraph">Niełatwo tu zagrać, jednak kiedy się już dostaniesz, nie będziesz chciał stąd odejść. Społeczność mamy świetną!</p>
         </div>
     </div>
 );
