@@ -19,7 +19,7 @@ const Header = () => (
                 <a href="#podanie" className="nav__link">Podanie</a>
             </li>
             <li className="nav__listItem">
-                <a href="#wiki" className="nav__link">Wiki</a>
+                <a href="https://maciejpanocha.github.io/CW-Wiki/" className="nav__link" target="_blank" rel="norefferal noopener" title="Wiki serwera Claim World">Wiki</a>
             </li>
             <li className="nav__listItem">
                 <a href="#wsparcie" className="nav__link">Wsparcie</a>
@@ -28,7 +28,7 @@ const Header = () => (
         <div className="banner">
             <h1 className="banner__h1">Firmy już dostępne!</h1>
             <p className="banner__paragraph">Wejdź do gry i uzyskaj dostęp do ogromu możliwości, jakie daje własna firma!</p>
-            <a href="#podanie" className="banner__link">Dołącz teraz</a>
+            <a href="https://discord.gg/5dUyeMu" className="banner__link" target="_blank" rel="norefferal noopener" title="Discord Claim Worlda">Dołącz teraz</a>
         </div>
     </div>
 );

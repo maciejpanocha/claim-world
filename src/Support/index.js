@@ -1,8 +1,10 @@
 import React from 'react';
 import './style.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFacebook, faYoutube, faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 const Support = () => (
-    <div className="support">
+    <div className="support" id="wsparcie">
         <div className="support__div">
             <h2 className="support__h2">Sakiewką potrząśnij!</h2>
             <p className="support__paragraph support__paragraph--2">Pomóż nam w opłaceniu maszyny i zgarnij dodatkowe uprawnienia:</p>
@@ -13,7 +15,12 @@ const Support = () => (
             </ul>
             <a href="#" className="support__link" target="_blank" rel="norefferal noopener" title="Portfel serwera Claim World">KUPUJĘ!</a>
             <p className="support__paragraph--small">Ranga VIP zostanie przyznana PERMAMENTNIE!</p>
-            <p className="support__paragraph--small">Zasil portfel serwera DOWOLNĄ kwotą, podając w tytule swój nick i napisz do administratora.</p>
+            <p className="support__paragraph--small">Zasil portfel serwera dowolną kwotą, podając dokładny nick z gry.</p>
+            <span className="support__span">
+                <a href="" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faFacebook} /></a>
+                <a href="" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faYoutube} /></a>
+                <a href="" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faInstagram} /></a>
+            </span>
         </div>
     </div>
 );

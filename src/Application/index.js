@@ -4,7 +4,7 @@ import './container.css';
 import sideImage from './../images/side-image.png';
 
 const Application = () => (
-    <div className="application">
+    <div className="application" id="podanie">
         <img src={sideImage} className="application__image" alt="postać z gry" />
         <div className="container">
             <h2 className="container__h2">Aplikacja Na Serwer</h2>

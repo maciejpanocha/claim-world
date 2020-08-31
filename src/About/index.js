@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPlaceOfWorship, faMagic, faDumbbell } from '@fortawesome/free-solid-svg-icons'
 
 const About = () => (
-    <div className="about">
+    <div className="about" id="o-nas">
         <h2 className="about__h2">O nas</h2>
         <p className="about__paragraph--slogan">Garść najważniejszych informacji o serwerze.</p>
         <div className="about__div">
