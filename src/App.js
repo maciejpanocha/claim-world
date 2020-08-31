@@ -4,6 +4,7 @@ import About from './About';
 import Application from './Application';
 import Support from './Support';
 import 'normalize.css';
+import './app.css';
 
 function App() {
   return (
