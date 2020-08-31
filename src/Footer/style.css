@@ -1,0 +1,15 @@
+.footer__paragraph {
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+}
+
+.footer__link {
+    text-decoration: none;
+    color: #E5383B;
+    transitioN: 0.2s;
+}
+
+.footer__link:hover {
+    color: hsla(359, 77%, 56%, 0.8);
+}
