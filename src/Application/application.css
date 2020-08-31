@@ -10,4 +10,9 @@
 .application__image {
     max-height: 400px;
     margin-right: 50px;
+    transition: 0.3s;
+}
+
+.application__image:hover {
+    transform: scale(1.1) rotate(-3deg);
 }

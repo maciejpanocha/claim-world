@@ -11,6 +11,7 @@
     color: #161A1D;
     border-bottom: 1px dashed #161A1D;
     padding-bottom: 5px;
+    font-size: 28px;
 }
 
 .container__paragraph {
@@ -37,9 +38,11 @@
 
 .container__link:hover {
     color: #E5383B;
-    background-color: #fff;
+    background: none;
 }
 
 .container__listItem {
     color: #161A1D;
+    font-weight: bold;
+    list-style-type: circle;
 }
