@@ -17,9 +17,9 @@ const Support = () => (
             <p className="support__paragraph--small">Ranga VIP zostanie przyznana PERMAMENTNIE!</p>
             <p className="support__paragraph--small">Zasil portfel serwera dowolną kwotą, podając dokładny nick z gry.</p>
             <span className="support__span">
-                <a href="" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faFacebook} /></a>
-                <a href="" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faYoutube} /></a>
-                <a href="" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faInstagram} /></a>
+                <a href="https://facebook.com/claimworldgg" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faFacebook} /></a>
+                <a href="https://www.youtube.com/channel/UC3-1sjBfM1BAdPMpveQto3A" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faYoutube} /></a>
+                <a href="https://instagram.com/claimworldgg" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faInstagram} /></a>
             </span>
         </div>
     </div>
