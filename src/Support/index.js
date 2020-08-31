@@ -14,8 +14,8 @@ const Support = () => (
                 <li className="support__listItem">Genialny system TARCZY PRZECIWKO FANTOMOM.</li>
             </ul>
             <a href="#" className="support__link" target="_blank" rel="norefferal noopener" title="Portfel serwera Claim World">KUPUJĘ!</a>
-            <p className="support__paragraph--small">Ranga VIP zostanie przyznana PERMAMENTNIE!</p>
             <p className="support__paragraph--small">Zasil portfel serwera dowolną kwotą, podając dokładny nick z gry.</p>
+            <p className="support__paragraph--small">Rangę VIP otrzymasz na zawsze.</p>
             <span className="support__span">
                 <a href="https://facebook.com/claimworldgg" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faFacebook} /></a>
                 <a href="https://www.youtube.com/channel/UC3-1sjBfM1BAdPMpveQto3A" className="support__link--social" target="_blank" rel="norefferal noopener" title="Link do social media"><FontAwesomeIcon icon={faYoutube} /></a>
