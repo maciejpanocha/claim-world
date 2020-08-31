@@ -13,7 +13,7 @@ const Support = () => (
                 <li className="support__listItem">Kilka dodatkowych funkcji, m.in. Drugi Dom!</li>
                 <li className="support__listItem">Genialny system TARCZY PRZECIWKO FANTOMOM.</li>
             </ul>
-            <a href="http://craftserve.pl/s/755978/shop" className="support__link" target="_blank" rel="norefferal noopener" title="Portfel serwera Claim World">KUPUJĘ!</a>
+            <a href="http://craftserve.pl/s/755978/shop" className="support__link" target="_blank" rel="norefferal noopener" title="Portfel serwera Claim World">Kupuję!</a>
             <p className="support__paragraph--small">Zasil portfel serwera dowolną kwotą, podając dokładny nick z gry.</p>
             <p className="support__paragraph--small">Rangę VIP otrzymasz na zawsze.</p>
             <span className="support__span">
