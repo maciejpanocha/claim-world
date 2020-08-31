@@ -2,6 +2,7 @@
     background: url(./../images/application.jpg) no-repeat scroll center;
     background-size: cover;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     min-height: 700px;
@@ -11,6 +12,12 @@
     max-height: 400px;
     margin-right: 50px;
     transition: 0.3s;
+}
+
+@media (max-width: 767px) {
+    .application__image {
+        margin: 50px;
+    }
 }
 
 .application__image:hover {

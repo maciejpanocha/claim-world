@@ -8,7 +8,7 @@ const Header = () => (
     <div className="header">
         <ul className="nav">
             <li className="nav__listItem nav__listItem--logo">
-                <a href="index.html">
+                <a href="index.html" className="nav__link--logo">
                     <img src={logo} className="nav__logo" alt="logo claim world" />
                 </a>
             </li>

@@ -8,6 +8,12 @@
     background-color: #FFF;
 }
 
+@media (max-width: 767px) {
+    .about {
+        padding: 25px;
+    }
+}
+
 .about__div {
     border-bottom: 1px dashed #161A1D;
     width: 300px;
