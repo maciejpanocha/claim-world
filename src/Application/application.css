@@ -3,7 +3,8 @@
     background-size: cover;
     display: flex;
     justify-content: center;
-    padding: 7% 0;
+    align-items: center;
+    min-height: 700px;
 }
 
 .application__image {

@@ -2,7 +2,9 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 8% 5%;
+    align-items: center;
+    padding: 50px;
+    min-height: 400px;
     background-color: #FFF;
 }
 
