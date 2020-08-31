@@ -54,6 +54,7 @@
 
 .about__h3:hover {
     transform: scale(1.1);
+    border-radius: 10px;
 }
 
 .about__link {
