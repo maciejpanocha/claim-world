@@ -7,10 +7,11 @@ const Support = () => (
     <div className="support" id="wsparcie">
         <div className="support__div">
             <h2 className="support__h2">Sakiewką potrząśnij!</h2>
-            <p className="support__paragraph support__paragraph--2">Pomóż nam w opłaceniu maszyny i zgarnij dodatkowe uprawnienia:</p>
+            <p className="support__paragraph support__paragraph--2">Pomóż nam w opłaceniu maszyny i zgarnij dodatkowe uprawnienia!</p>
             <ul className="support__unorganizedList">
                 <li className="support__listItem">Kolorki na serwerze gry, jak i na Discordzie.</li>
                 <li className="support__listItem">Kilka dodatkowych funkcji, m.in. Drugi Dom!</li>
+                <li className="support__listItem">Brak utraty doświadczenia po śmierci.</li>
                 <li className="support__listItem">Genialny system TARCZY PRZECIWKO FANTOMOM.</li>
             </ul>
             <a href="http://craftserve.pl/s/755978/shop" className="support__link" target="_blank" rel="norefferal noopener" title="Portfel serwera Claim World">Kupuję!</a>
