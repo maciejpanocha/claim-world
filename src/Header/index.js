@@ -19,7 +19,7 @@ const Header = () => (
                 <a href="#podanie" className="nav__link">Podanie</a>
             </li>
             <li className="nav__listItem">
-                <a href="https://maciejpanocha.github.io/CW-Wiki/" className="nav__link" target="_blank" rel="norefferal noopener" title="Wiki serwera Claim World">Wiki</a>
+                <a href="https://claimworld.pl/wiki" className="nav__link" target="_blank" rel="norefferal noopener" title="Wiki serwera Claim World">Wiki</a>
             </li>
             <li className="nav__listItem">
                 <a href="#wsparcie" className="nav__link">Wsparcie</a>
